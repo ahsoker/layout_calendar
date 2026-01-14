@@ -18,7 +18,6 @@ body {
   flex-wrap: wrap;
   gap: $gap;
   width: calc(7 * $cell-size + 6 * $gap + 2 * $padding);
-  padding: 0 $padding;
 }
 
 .calendar__day {
